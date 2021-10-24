@@ -10,7 +10,7 @@
 ### First install the dependencies 
 ```npm install```
 ### Then just type this to run the app
-npm start
+```npm start```
 
 ## Fique a vontade :) Be my guest
 
